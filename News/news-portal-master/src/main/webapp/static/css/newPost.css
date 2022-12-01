@@ -1,0 +1,25 @@
+#post-img{
+    border-radius: 5px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+#new-post-btn{
+    color: white;
+    background-color: #FCB695;
+    width: 100%;
+    margin-top: 15px;
+}
+#update-post-btn{
+    color: white;
+    background-color: #FCB695;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.privacy-div{
+    background-color: #f3f3f3;
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+}
+

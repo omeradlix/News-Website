@@ -1,0 +1,49 @@
+#filter-button{
+    width: 97%;
+    background-color: #FA906E;
+    color: white;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+form {
+    padding-bottom: 50px;
+}
+.post-img{
+    max-width: 250px;
+    max-height: 150px;
+    border-radius: 5px;
+}
+
+.post-row{
+    padding-bottom: 5px;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    margin-top: 15px !important;
+}
+.post-time{
+    color: white;
+    background-color: slategray;
+    border-radius: 5px;
+    padding: 5px;
+    float: right;
+}
+.post-group-name-row{
+    border-bottom: 2px solid lightslategray;
+    padding-bottom: 15px;
+}
+
+.post-group-name{
+    margin-left: auto;
+    margin-right: 45px;
+    margin-top: 15px;
+    background-color: #0e8c8c;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+

@@ -1,0 +1,17 @@
+Mysql'de NewsPortal adlı veritabanı oluşturulması lazım.
+create database NewsPortal;
+
+news-portal-master\src\main\resources kısmındaki application.properties dosyasında
+mysql kullanıcı adı ve şifresi girilmeli.
+
+Siteye tarayıcıdan localhost:8080 yazılarak girilebilir.
+
+Siteye kullanıcı giriş kısmı :
+
+kullanıcı adi : admin / şifre : admin
+
+kullanıcı adi : editor / şifre : editor
+
+kullanıcı adi : saglik / şifre : saglik ( saglik kategori editoru)
+
+kullanıcı adi : user / şifre : user

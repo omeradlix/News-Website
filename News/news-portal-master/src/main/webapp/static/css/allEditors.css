@@ -1,0 +1,8 @@
+.del-column:hover{
+    cursor: pointer;
+    color: red;
+}
+.edit-column:hover{
+    cursor: pointer;
+    color: #1e77ba;
+}
